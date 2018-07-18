@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #3A3535;
+  overflow: hidden;
+}
+.app{
+  height: 600px;
+}
+.miPuzzle{
+  position: relative;
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 50px;
+  background: rgba(0, 0, 0, 0.5);
+}
+.puzzle {
+  box-sizing: border-box;
+  background:url(image.jpg);
+  background-size: 600px 400px;
+  border: 1px solid black;
+}
+.ranges{
+  margin: auto;
+  width: 600px;
+  height: 120px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.label{
+  width: 160px;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+.range{
+  background: #3A3535;
+  margin-left: 80px;
+}
