@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-https://puzzle-js-app.herokuapp.com/ - automatic!
+https://puzzle-js-app.herokuapp.com/
