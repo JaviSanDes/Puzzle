@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-https://puzzle-js-app.herokuapp.com/
+https://puzzle-df319.web.app/
